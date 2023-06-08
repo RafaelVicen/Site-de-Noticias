@@ -24,3 +24,11 @@ nav a {
   color: #fff;
   text-decoration: none;
 }
+
+/* conteudo principal*/
+.news-container {
+  display: flex;
+  margin: 1rem 0;
+  gap: 5rem;
+  justify-content: center;
+}
